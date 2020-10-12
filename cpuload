@@ -1,0 +1,4 @@
+yes > /dev/null &
+killall yes
+
+https://scoutapm.com/blog/restricting-process-cpu-usage-using-nice-cpulimit-and-cgroups
